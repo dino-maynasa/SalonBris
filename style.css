@@ -150,6 +150,7 @@
         }
 
         .hero-content h1 {
+            color:rgb(93, 191, 204);
             font-size: 3.5rem;
             margin-bottom: 20px;
             animation: fadeInDown 1s ease;
